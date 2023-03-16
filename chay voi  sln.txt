@@ -1,0 +1,10 @@
+phải chạy cơ sở dữ liệu trước, do trong trương trình cùng ip wifi mới có thể kết nối được.
+tài khoản đăng nhập vào gmail để kiểm tra mật khẩu (chủ):
+
+gmail:khalyhaisan2022@gmail.com
+mat khau:qebyimmsmrlespsi
+
+Tài khoản đăng nhập phần mềm:
+
+khaly012001@gmail.com
+khaly123
